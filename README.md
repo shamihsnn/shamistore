@@ -1,0 +1,2 @@
+# shamistore
+mystore for medicine 
